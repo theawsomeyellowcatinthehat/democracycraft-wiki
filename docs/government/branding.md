@@ -11,6 +11,11 @@
 
 ![DC](https://www.democracycraft.net/images/Seal_DC.png)
 
+### Public Defender Program
+![PD](https://i.imgur.com/f1nzzfF.png)
+<!---
+Whilst technically PD is apart of the judiciary, I felt it needed another header to differentiate it. (Feel free to remove the head if you don't like it)
+-->
 ## Legislative
 ![CON](https://www.democracycraft.net/images/Seal_Congress.png)
 
