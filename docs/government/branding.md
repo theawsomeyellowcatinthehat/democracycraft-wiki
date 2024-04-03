@@ -52,6 +52,9 @@
 ## Coat of Arms
 ![Coat of Arms](https://www.democracycraft.net/images/CoatofArms.png)
 
+## Flag
+![Flag](https://i.imgur.com/UwzVdhr.png)
+
 ## Extra-Governmental
 ![RBA](https://www.democracycraft.net/images/Seal_RBA.png)
 
