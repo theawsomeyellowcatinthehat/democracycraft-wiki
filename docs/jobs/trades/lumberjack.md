@@ -4,52 +4,39 @@ sidebar_position: 1
 
 # Lumberjack
 
-As a Lumberjack, your primary task is to chop down trees. This job plays a crucial role in the logging industry and allows you to gather and sell wood efficiently.
-
-![Image](https://media.discordapp.net/attachments/838356841217916989/1165658737420284056/2023-03-12_18.10.35.png?ex=6547a74b&is=6535324b&hm=dd2124d5472dad1a063310cfdadb4fe38437b867979c14203a3d0f62a14cca51&=&width=1266&height=671)
+As a Lumberjack, your primary task is to chop down trees. This job is at the center of the logging industry and provides resources for multiple industries throughout DemocracyCraft such as building, resources, commerce, and many more industries!
 
 ## What Lumberjacks Do
 
-Being a Lumberjack isn't just about cutting trees like any other player. You have an exclusive ability known as the "Tree Feller." With a simple left-click, you can bring down entire trees at once. This special skill sets you apart from regular players and makes wood harvesting easier and more efficient.
+Being a Lumberjack isn't just about cutting trees like any other player. You have an exclusive ability known as the "Tree Feller.", this ability is given to Rangers and Lumberjacks, with a simple left-click, you can bring down entire trees at once. This special skill sets you apart from regular players and makes wood harvesting easier and more efficient.
 
 While anyone can sell logs, only Lumberjacks have the advantage of the Tree Feller ability, giving them a competitive edge in the industry.
 
-If you enjoy collecting wood and want to excel at it, this job might be perfect for you. We hope you can obtain this role and that it enhances your tree-related endeavors.
+Not only can you cut down trees faster than everyone else, you can also turn wood products back into planks, accidently make too many fences, boom back into planks and ready for you to use again.
+
+## Where can I farm logs?
+
+There are 2 main places on the server where you can farm logs, the wild, and oakridge. Oakridge is the town with the industry theme of lumber, it's a town built for it, you can rent orchards to farm trees there. In the wild however is where you can get the most out of your ability, you can use /airport to reach a wild station and explore, finding new biomes using /map and getting all the lumber to your hearts desire!
+
+:::tip Make sure to replant your trees so you can come back later!
+:::
 
 ## Passed the Exam? What Now?
 
-After passing the exam, it's recommended to purchase a plot or rent a shop to sell your wood products. You can find available plots in the #realty-adverts section on our Discord. Additionally, you can sell your wood to businesses using the ``/find {item name}`` command to locate shops with minecarts or enderchests.
-
-To gather resources, you can either buy them from player shops or obtain them in the wild. Access the wild by typing /warp airport and select one of the seven starting locations. (See the picture below).
-
-![](https://i.imgur.com/tzWfNL8.png)
-
-(Use /map to find specific biomes).
+After passing the exam you now have tree felling, feel free to go out to the wild and start your lumber empire. You can make money by selling wood products to all sorts of places, you can start your own store, supply to one as a contractor, or just go around redmont selling to shops using /find to locate sell signs. 
 
 For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
 
-You can also explore job opportunities with DC Jobs: [Join the DC Jobs Discord Server](https://discord.gg/Q8rNjddjjh).
-
 ## Crafting Recipes
 
-Lumberjacks have the unique ability to convert wood items (like fences and doors) back into wood planks. All these recipes are done within a crafting table, except for specified blast furnace recipes.
+Here are some of the more useful recipes you can use as a lumberjack! (These recipes can be used with every type of wood!)
 
-<details>
-  <summary>Available Recipes</summary>
-  
-- Slab -> 1 plank
-  
-- Fence -> 1 plank
-  
-- Stair -> 1 plank
-  
-- Door -> 1 plank
-  
-- Trapdoor -> 1 plank
-  
-- Fence Gate -> 1 plank
-  
-- Boat -> 2 planks
-  
-- Sign -> 1 plank
-</details>
+### There's a lot more recipes to find! you can find them at this [imgur album](https://imgur.com/a/8i7b7KG)
+
+Fences to Oak Planks
+
+![Fences to Oak Planks](https://i.imgur.com/oKEOYf3.png)
+
+Stairs to Oak Planks
+
+![Stairs to Oak Planks](https://i.imgur.com/5B7g85l.png)
