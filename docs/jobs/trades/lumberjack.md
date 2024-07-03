@@ -25,8 +25,6 @@ There are 2 main places on the server where you can farm logs, the wild, and oak
 
 After passing the exam you now have tree felling, feel free to go out to the wild and start your lumber empire. You can make money by selling wood products to all sorts of places, you can start your own store, supply to one as a contractor, or just go around redmont selling to shops using /find to locate sell signs. 
 
-For more information, read the [Making Money Guide](https://democracycraft.net/threads/making-money.1410/).
-
 ## Crafting Recipes
 
 Here are some of the more useful recipes you can use as a lumberjack! (These recipes can be used with every type of wood!)
