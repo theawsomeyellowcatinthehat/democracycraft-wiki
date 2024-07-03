@@ -16,7 +16,7 @@ Not only can you cut down trees faster than everyone else, you can also turn woo
 
 ## Where can I farm logs?
 
-There are 2 main places on the server where you can farm logs, the wild, and oakridge. Oakridge is the town with the industry theme of lumber, it's a town built for it, you can rent orchards to farm trees there. In the wild however is where you can get the most out of your ability, you can use /airport to reach a wild station and explore, finding new biomes using /map and getting all the lumber to your hearts desire!
+There are 2 main places on the server where you can farm logs, the wild, and oakridge. Oakridge is the town with the industry theme of lumber, it's a town built for it, you can rent orchards to farm trees there. In the wild however is where you can get the most out of your ability, you can use /airport to reach a wild station and explore, finding new biomes using /map or just exploring the wild and getting all the lumber to your hearts desire!
 
 :::tip Make sure to replant your trees so you can come back later!
 :::
